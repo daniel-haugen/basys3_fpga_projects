@@ -4,6 +4,8 @@ I'm using the Basys3 Dev Board from Xilinx, Vivado Design Suite + Verilog, and [
 
 Each folder is a specific project as I go through the book. 
 
+I've just completed making a VGA test pattern:
+
 
 
 
